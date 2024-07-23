@@ -1,0 +1,17 @@
+h1{
+    color:rgb(60, 196, 6);
+    font-size:50px;
+}
+.bodybackground{
+    background-image:url("https://www.fundacionaquae.org/wp-content/uploads/2016/03/nature-1024x683.jpeg");
+    background-position:center;
+    background-size:cover;
+}
+#mycanvas{
+    border-width:15px;
+    background-color: rgb(217, 255, 181);
+    border-style:groove;
+}
+body{
+    cursor:pointer;
+}
